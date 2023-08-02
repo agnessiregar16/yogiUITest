@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>result</name>
+   <tag></tag>
+   <elementGuidId>a6265ee0-be41-411f-a1c8-9ab86c699380</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[@class = 'search__title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0360d5a9-fd87-4ba6-a444-eb7493189f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search__title</value>
+      <webElementGuid>fe1cee9d-4d53-4166-bcc0-b79ecbfdb96f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
