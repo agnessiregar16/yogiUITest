@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <elementGuidId>badafcdf-fef2-4f02-a8ff-fc376c0de799</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for = 'locatorTextSearch' and @class = 'label--large']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>locatorTextSearch</value>
+      <webElementGuid>2cafc93a-6b48-4f55-9b73-c811b2136a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>10204812-24ac-4783-9794-8c895fc4b1d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label--large</value>
+      <webElementGuid>87976021-5e8f-4bee-8b0d-101dbe8292e6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SearchApplyForANumberPlate</name>
+   <name>SearchApplyForANumberPlateUsingParameter</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b7ea06a5-b42d-4d21-8efe-a242cbc27c97</testCaseGuid>
+   <testCaseGuid>aa1f2887-d4f1-4505-8509-9d03357ede8f</testCaseGuid>
 </TestCaseEntity>

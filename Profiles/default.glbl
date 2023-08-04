@@ -9,4 +9,9 @@
       <initValue>'https://www.service.nsw.gov.au/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sydney Domestic Airport 2020'</initValue>
+      <name>serviceCentre</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
